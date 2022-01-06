@@ -47,7 +47,7 @@ h1{
 
 }
 #mission{
-    background-color: thistle;
+    background-color: rgba(200, 191, 216, 0.466);
     width: 30%;
     padding: 30px 30px 20px 20px;
     border-radius: 15px;
@@ -59,7 +59,7 @@ h1{
     width: 52%;
 }
 #vission{
-    background-color: thistle;
+    background-color: rgba(218, 6, 154, 0.13);
     width: 30%;
     padding: 30px 30px 20px 20px;
     border-radius: 15px;
@@ -71,7 +71,7 @@ h1{
     width: 50%;
 }
 #goal{
-    background-color: thistle;
+    background-color: rgba(255, 123, 0, 0.199);
     width: 30%;
     padding: 30px 30px 20px 20px;
     border-radius: 15px;
@@ -113,9 +113,51 @@ h1{
 #new-div{
     padding-top: 80px;
     padding-bottom: 80px;
-    background-color: rgba(255, 0, 255, 0.267);
+    background-color: rgb(0, 0, 0);
     text-align: center;
     line-height: 20px;
+    color: cornsilk;
+}
+
+.last-section{
+    background-color: rgb(0, 0, 0);
+    margin-top: 80px;
+    margin-bottom: 80px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: cornsilk;
+   
+    
+}
+#form{
+    text-align: center;
+}
+#form input{
+    border: 2px solid cornsilk;
+    background-color: black;
+    color: cornsilk;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 15px;
+    border-radius: 10px;
+    margin-top: 10px;
+    
+    width: 30%;
+}
+
+
+.last-section h1{
+    text-align: center;
+}
+
+.new{
+    margin-top: 20px;
+   
+    padding-right: 50px;
+    padding-left: 50px;
+    text-align: center;
+    
+
 }
 
 
@@ -125,4 +167,9 @@ h1{
     padding-bottom: 30px;
     text-align: center;
     color: cornsilk;
+    line-height: 17px;
 }
+#footer-style p{
+    color: rgba(255, 248, 220, 0.63);
+}
+
