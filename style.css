@@ -108,3 +108,12 @@ h1{
 #extra-div p{
     padding-right: 100px;
 }
+
+
+#new-div{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-color: rgba(255, 0, 255, 0.267);
+    text-align: center;
+    line-height: 20px;
+}
