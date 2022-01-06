@@ -85,24 +85,26 @@ h1{
 
 .third-section{
     display: flex;
-    margin-bottom: 80px;
     margin-left: 120px;
     margin-right: 120px;
-    
-}
-#for-image img{
-    width: 100%;
+    margin-bottom: 80px;
+   
 }
 #for-image{
-    display: flex;
-    float: left;
-    width: 33%;
-    margin-right: 50px;
-
+    width: 50%;
 }
-#third-section-div h2{
+#for-image img{
+    width: 85%;
+}
+#extra-div{
+    width: 80%;
+}
+#extra-div h2{
     font-size: 40px;
     color: black;
     font-weight: bold;
 
+}
+#extra-div p{
+    padding-right: 100px;
 }
