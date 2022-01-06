@@ -117,3 +117,12 @@ h1{
     text-align: center;
     line-height: 20px;
 }
+
+
+#footer-style{
+    background-color: black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    color: cornsilk;
+}
